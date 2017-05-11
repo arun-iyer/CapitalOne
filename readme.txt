@@ -1,4 +1,4 @@
-There are 3 projects in the CapitalOne solution.
+2There are 3 projects in the CapitalOne solution.
 
 -----------------------------------
 
