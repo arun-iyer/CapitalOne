@@ -204,7 +204,8 @@ namespace CapitalOne
         private Grouped_Transaction GetAverageMonth(List<Grouped_Transaction> grouped_transactions)
         {
             //comments.
-            //new feature
+            //new feature.
+            //new feature.
             double average = 0.0;
             foreach (Grouped_Transaction gt in grouped_transactions)
             {
